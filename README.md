@@ -4,6 +4,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/fluent/fluentd-kubernetes-daemonset.svg)](https://hub.docker.com/r/fluent/fluentd-kubernetes-daemonset)
 [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/fluent/fluentd-kubernetes-daemonset/latest.svg)](https://hub.docker.com/r/fluent/fluentd-kubernetes-daemonset)
 [![ImageLayers Layers](https://img.shields.io/imagelayers/layers/fluent/fluentd-kubernetes-daemonset/latest.svg)](https://hub.docker.com/r/fluent/fluentd-kubernetes-daemonset)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fospoking%2Ffluentd-kubernetes-daemonset.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fospoking%2Ffluentd-kubernetes-daemonset?ref=badge_shield)
 
 ## Supported tags and respective `Dockerfile` links
 
@@ -183,3 +184,7 @@ _Note: This file is generated from [templates/README.md.erb](templates/README.md
 [alpine-dockerhub]: https://hub.docker.com/_/alpine
 [debian-dockerhub]: https://hub.docker.com/_/debian
 [fluentd-article]: https://docs.fluentd.org/v/0.12/articles/kubernetes-fluentd
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fospoking%2Ffluentd-kubernetes-daemonset.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fospoking%2Ffluentd-kubernetes-daemonset?ref=badge_large)
